@@ -56,9 +56,9 @@ Let’s build something meaningful. 🚀
 
 <!-- GPRM STATS WIDGETS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naghulsathiyamurthy&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=naghulsathiyamurthy&theme=radical&border_radius=10" alt="GitHub Streak" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naghulsathiyamurthy&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DreaserousProductions&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=DreaserousProductions&theme=radical&border_radius=10" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreaserousProductions&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="150"/>
 </p>
 
 ---

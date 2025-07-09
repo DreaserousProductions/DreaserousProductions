@@ -20,7 +20,7 @@ I believe this is one of my defining qualities, I am also a pretty upbeat, with 
 - 🌱 Exploring: Edge AI, and Scalable Microservices  
 - ⚡ Fun fact: I believe building is the new future, we are moving from consumerism to deployerism 🚀
 
-#### 👨‍💻 The Standard Bit
+### 👨‍💻 The Standard Bit
 
 I'm Naghul Pranav A S, a Computer Science Engineering graduate from NIT Puducherry.
 
@@ -47,8 +47,8 @@ Let’s build something meaningful. 🚀
 
 ## 🔗 Links
 
-- 🌐 [Portfolio](https://dreaserous.netlify.app)  
-- 🏢 [Everglade Foundation](https://everglade.in)
+🌐 [Portfolio](https://dreaserous.netlify.app)  
+🏢 [Everglade Foundation](https://everglade.in)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dreaserousproductions) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dreaserous) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dreaserous1346) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dreaserousproductions@gmail.com) 
 

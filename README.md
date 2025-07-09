@@ -48,9 +48,9 @@ Let’s build something meaningful. 🚀
 ## 🔗 Links
 
 - 🌐 [Portfolio](https://dreaserous.netlify.app)  
-- 🏢 [Company](https://everglade.in)  
-- 💼 [LinkedIn](https://linkedin.com/in/dreaserous/)  
-- 📸 [Instgram](https://www.instagram.com/dreaserousproductions/)  
+- 🏢 [Company](https://everglade.in)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dreaserousproductions) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dreaserous) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dreaserous1346) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dreaserousproductions@gmail.com) 
 
 ---
 

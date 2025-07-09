@@ -37,7 +37,7 @@ Let’s build something meaningful. 🚀
 - **Languages**: Python, JavaScript (ES6+), TypeScript, Java  
 - **Frontend**: Angular, HTML/CSS, Tailwind, SASS  
 - **Backend**: Node.js, Express.js, REST APIs, WebSockets  
-- **AI/ML**: PyTorch, TensorFlow, scikit-learn, ONNX  
+- **AI/ML**: TensorFlow, scikit-learn, ONNX, Keras
 - **DevOps & Tools**: Git, GitHub Actions, Docker, Linux, Bash  
 - **Cloud**: AWS (S3, Lambda, EC2), Cloudflare (Workers KV)
 

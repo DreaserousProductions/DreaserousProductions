@@ -1,14 +1,14 @@
-<h1 align="center">Hey there! 👋 I'm Naghul (Dreaserous)</h1>
+<h1 align="center">Hey there! I'm Naghul (Dreaserous)</h1>
 
 <p align="center">
-  🧠 Full Stack Developer <br>
-  💻 Python · JavaScript · TypeScript <br>
-  ☁️ AWS · Cloudflare | 🐧 Linux Enthusiast <br>
+  Full Stack Developer <br>
+  Python · JavaScript · TypeScript <br>
+  AWS · Cloudflare | Linux Enthusiast <br>
 </p>
 
 ---
 
-## 🧩 About Me
+## About Me
 
 I like to think I'm special — and lately, I’ve come to believe that others should see themselves that way too. Not because I say so, but because it's true.
 
@@ -16,11 +16,11 @@ What makes me different? I have a relentless will — when I set my sights on so
 
 I believe this is one of my defining qualities, I am also a pretty upbeat, with a no regret policy, overall mostly chill guy. At the end of the day, it all comes down to passion and the desire to grow. I believe I have what it takes — the question is: are you open to giving me the chance to show you?
 
-- 🔭 Currently working on: AI Smart Assistants and Data Privacy with LLMs
-- 🌱 Exploring: Edge AI, and Scalable Microservices  
-- ⚡ Fun fact: I believe building is the new future, we are moving from consumerism to deployerism 🚀
+- Currently working on: AI Smart Assistants and Data Privacy with LLMs
+- Exploring: Edge AI, and Scalable Microservices  
+- Fun fact: I believe building is the new future, we are moving from consumerism to deployerism
 
-### 👨‍💻 The Standard Bit
+### The Standard Bit
 
 I'm Naghul Pranav A S, a Computer Science Engineering graduate from NIT Puducherry.
 
@@ -28,7 +28,7 @@ With extensive experience across Full Stack Development, Software Testing, and D
 
 Thanks for taking the time to learn a bit more about me. Scroll down to explore my work, projects, and achievements.
 
-Let’s build something meaningful. 🚀
+Let’s build something meaningful.
 
 ---
 
@@ -45,7 +45,7 @@ Let’s build something meaningful. 🚀
 
 ---
 
-## 🔗 Links
+## Links
 
 🌐 [Portfolio](https://dreaserous.tech)  
 🏢 [Everglade Foundation](https://everglade.in)
@@ -54,7 +54,7 @@ Let’s build something meaningful. 🚀
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <!-- GPRM STATS WIDGETS -->
 <p align="center">
@@ -65,7 +65,7 @@ Let’s build something meaningful. 🚀
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 Got a project idea or just want to say hi?  
 Reach me at **dreaserousproductions@gmail.com** ✉️ or via socials above!

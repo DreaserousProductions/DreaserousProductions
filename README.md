@@ -70,4 +70,4 @@ Reach me at **dreaserousproductions@gmail.com** or via socials above!
 
 ---
 
-> *"I build my own future"* 💡
+> *"I build my own future"*

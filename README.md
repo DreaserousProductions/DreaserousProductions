@@ -2,7 +2,7 @@
 
 <p align="center">
   Full Stack Developer <br>
-  Python · JavaScript · TypeScript <br>
+  Python · GO · TypeScript <br>
   Azure | Linux Enthusiast <br>
 </p>
 
